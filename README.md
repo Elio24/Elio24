@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projet en équipe
+
+**[Projet de machine learning](https://github.com/Gustor1/projet-ml-s3)** — Projet réalisé en équipe dans le cadre d’un cours pendant mon semestre d’études à l’Université de Shanghai.
